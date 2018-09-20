@@ -1,2 +1,2 @@
 # Beginner-projek1
-just java
+Kolaborasi programmer
